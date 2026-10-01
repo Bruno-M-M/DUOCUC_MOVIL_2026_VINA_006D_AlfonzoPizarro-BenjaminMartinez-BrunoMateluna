@@ -28,3 +28,7 @@ keystore.properties
 secrets.properties
 application-local.properties
 application-local.yml
+
+# ---- Datos personales: el dataset real de emprendedoras NO se sube (repo público, Ley 21.719) ----
+datos_privados/
+*.xlsx
