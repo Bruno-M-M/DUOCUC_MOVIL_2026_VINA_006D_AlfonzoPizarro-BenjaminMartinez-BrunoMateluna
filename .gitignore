@@ -1,0 +1,30 @@
+# ---- Editores e IDE (cada integrante tiene los suyos) ----
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ---- Android / Gradle (se generan al compilar) ----
+.gradle/
+.kotlin/
+build/
+captures/
+.cxx/
+.externalNativeBuild/
+local.properties
+
+# ---- Backend (Spring Boot, Maven o Gradle) ----
+target/
+HELP.md
+*.log
+
+# ---- Secretos: nunca se suben ----
+.env
+.env.*
+*.jks
+*.keystore
+keystore.properties
+secrets.properties
+application-local.properties
+application-local.yml
